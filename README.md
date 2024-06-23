@@ -50,8 +50,7 @@ Usage of better isPrime function and threads:
 ![image](https://github.com/annapinchuk/thread_safe_prime_counter/assets/78349342/7469aae7-d38b-42b8-96ae-4923b8b236a1)
 
 ## RAM space:
-As we can see in the images the peak memory usage is 4,104 bytes.
-![image](https://github.com/annapinchuk/thread_safe_prime_counter/assets/78349342/c978b7e1-297b-4bf3-8546-e803d4a3b6b1)
-![image](https://github.com/annapinchuk/thread_safe_prime_counter/assets/78349342/1347f12c-5579-420b-bd44-be3c875e3a2e)
+As we can see in the image the memory usage is 7.5 KB.
+![image](https://github.com/annapinchuk/thread_safe_prime_counter/assets/78349342/761e8cc7-b80c-489a-92a7-ac95ee0cd186)
 
 
