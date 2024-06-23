@@ -5,7 +5,7 @@ generator:  generator.c
 	gcc -o randomGenerator generator.c
 
 primeCounter:	primeCounter.c
-	gcc -o primeCounter primeCounter.c
+	gcc -o primeCounter primeCounter.c -lm -pthread
 
 .PHONY: clean
 clean:
